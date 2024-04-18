@@ -10,5 +10,9 @@
   "devDependencies": {
     "@playwright/test": "^1.43.1",
     "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "@types/mysql": "^2.15.26",
+    "mysql2": "^3.9.6"
   }
 }
